@@ -16,10 +16,10 @@ if __name__ == "__main__":
 
 
     #change this, C:\Users\user\Pictures\CR2 'with your actual folder path where your .CR2 files are located.'
-    source_dir = r'C:\Users\user\Pictures\CR2' 
+    source_dir = r'./old' 
 
     #Do the Same thing here but, put the folder path where you want to save the converted files of .CR2.
-    dest_dir = r'C:\Users\user\Pictures\CCR2'  
+    dest_dir = r'./new'
 
 
 
